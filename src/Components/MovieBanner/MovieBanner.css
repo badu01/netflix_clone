@@ -1,0 +1,12 @@
+.Moviebanner{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+
+.shade{
+    background: rgb(17,17,17);
+    background: linear-gradient(0deg, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%);
+    width: 100%;
+    height: 100%;
+}
