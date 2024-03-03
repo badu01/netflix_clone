@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/badu01/netflix_clone.git/static/css/main.aff7d4c1.css",
+    "main.js": "/badu01/netflix_clone.git/static/js/main.d1c50ab4.js",
+    "index.html": "/badu01/netflix_clone.git/index.html",
+    "main.aff7d4c1.css.map": "/badu01/netflix_clone.git/static/css/main.aff7d4c1.css.map",
+    "main.d1c50ab4.js.map": "/badu01/netflix_clone.git/static/js/main.d1c50ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff7d4c1.css",
+    "static/js/main.d1c50ab4.js"
+  ]
+}
