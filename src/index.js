@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-
+import * as serviceWorker from './Service';
 import App from './App';
 import MovieDetails from './Constants/Context';
 
@@ -13,3 +13,4 @@ root.render(
     </MovieDetails>
   </React.StrictMode>
 );
+serviceWorker.register();
